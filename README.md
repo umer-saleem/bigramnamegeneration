@@ -119,7 +119,7 @@ Please open an issue or submit a pull request.
 ## Example Output
 Generated names (sample)
 
-``bash
+```bash
 sar
 efaylyla
 jeei
