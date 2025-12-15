@@ -85,3 +85,21 @@ print(f"Negative Log Likelihood = {nll:.4f}")
 - Generated names are printed during initialization.
 - The model_evaluation() method returns the negative log-likelihood of the test data.
 
+## Model Details
+
+- **1. Encoding & Decoding**
+
+Converts characters to integer indices (stoi) and back (itos).
+
+Count Dictionary
+
+Counts occurrences of all character pairs in the training data.
+
+Normalized Bigram Probability Matrix
+
+Converts counts into probabilities for sampling next characters.
+
+Sequence Generation
+
+Uses multinomial sampling to generate new sequences based on learned bigram probabilities.
+
