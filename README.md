@@ -2,7 +2,6 @@
 
 A **character-level bigram language model** implemented in Python using **PyTorch**, designed to generate names by learning the probabilities of consecutive character pairs. This project also evaluates the model performance using **negative log-likelihood** on a test dataset.
 
----
 
 ## Table of Contents
 
@@ -17,7 +16,6 @@ A **character-level bigram language model** implemented in Python using **PyTorc
 9. [Contributing](#contributing)  
 10. [License](#license)  
 
----
 
 ## Project Overview
 
