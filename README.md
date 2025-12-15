@@ -104,9 +104,9 @@ print(f"Negative Log Likelihood = {nll:.4f}")
 ## Evaluation
 
 - The model is evaluated on test data using negative log-likelihood (NLL):
-NLL = -(1 / N) * Σ log P(x_{i+1} | x_i)
 
-  
+<p align="center"> <strong> NLL = − (1 / N) × Σ log P(x<sub>i+1</sub> | x<sub>i</sub>) </strong> </p>
+
 - A lower NLL indicates the model better predicts the sequences in the test set.
 
 ## Technologies & Tools
