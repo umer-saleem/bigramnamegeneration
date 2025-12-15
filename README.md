@@ -56,4 +56,8 @@ cd bigram-name-generator
 
 2. **Install dependencies**
 
+```bash
+pip install torch
+```
+
 
