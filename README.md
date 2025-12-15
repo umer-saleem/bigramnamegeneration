@@ -118,3 +118,21 @@ Contributions are welcome! You can:
 
 Please open an issue or submit a pull request.
 
+## Example Output
+Generated names (sample)
+
+``bash
+sar
+efaylyla
+jeei
+lee
+giyssie
+corar
+citay
+veliaurl
+kican
+on
+...
+
+```
+
