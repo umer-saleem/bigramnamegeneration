@@ -54,6 +54,7 @@ git clone https://github.com/your-username/bigram-name-generator.git
 cd bigram-name-generator
 
 2. **Install dependencies**
+
 ```bash
 pip install torch
 
