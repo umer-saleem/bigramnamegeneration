@@ -115,5 +115,6 @@ Contributions are welcome! You can:
 - Improve the model (e.g., trigram or neural network extensions)
 - Add new datasets for testing
 - Enhance sequence generation or evaluation methods
+
 Please open an issue or submit a pull request.
 
