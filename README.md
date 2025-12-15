@@ -101,6 +101,11 @@ print(f"Negative Log Likelihood = {nll:.4f}")
 
 - Uses multinomial sampling to generate new sequences based on learned bigram probabilities.
 
+## Evaluation
+
+- The model is evaluated on test data using negative log-likelihood (NLL):
+- A lower NLL indicates the model better predicts the sequences in the test set.
+
 ## Technologies & Tools
 
 - **Programming Language:** Python
