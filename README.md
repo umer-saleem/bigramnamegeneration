@@ -88,16 +88,18 @@ print(f"Negative Log Likelihood = {nll:.4f}")
 ## Model Details
 
 **1. Encoding & Decoding**
+
 Converts characters to integer indices (stoi) and back (itos).
 
 **2. Count Dictionary**
+
 Counts occurrences of all character pairs in the training data.
 
 **3. Normalized Bigram Probability Matrix**
 
 Converts counts into probabilities for sampling next characters.
 
-Sequence Generation
+**4. Sequence Generation**
 
 Uses multinomial sampling to generate new sequences based on learned bigram probabilities.
 
