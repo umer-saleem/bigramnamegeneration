@@ -60,4 +60,9 @@ cd bigram-name-generator
 pip install torch
 ```
 
+3. **Add your dataset**
+
+- Place names.txt in the root directory.
+- Ensure each name is separated by a newline or space.
+
 
