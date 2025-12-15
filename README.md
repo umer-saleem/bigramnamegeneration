@@ -48,13 +48,12 @@ This project provides a foundational understanding of **language modeling**, **s
 ## Installation
 
 1. **Clone the repository**
-
+  
 ```bash
 git clone https://github.com/your-username/bigram-name-generator.git
 cd bigram-name-generator
+```
 
-2. **nstall dependencies**
+2. **Install dependencies**
 
-```bash
-pip install torch
 
