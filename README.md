@@ -120,6 +120,7 @@ Please open an issue or submit a pull request.
 Generated names (sample)
 
 ``bash
+
 sar
 efaylyla
 jeei
