@@ -28,7 +28,6 @@ This project focuses on building a **simple probabilistic model** that learns ch
 
 This project provides a foundational understanding of **language modeling**, **sequence generation**, and **probabilistic NLP**.
 
----
 
 ## Features
 
@@ -38,7 +37,6 @@ This project provides a foundational understanding of **language modeling**, **s
 - **Evaluation** on test data using negative log-likelihood  
 - Handles **start `<S>` and end `<E>` tokens** to mark sequence boundaries  
 
----
 
 ## Dataset
 
@@ -46,7 +44,6 @@ This project provides a foundational understanding of **language modeling**, **s
 - Data is split into **training** (default 90%) and **testing** (10%).  
 - Each word is prepended with `<S>` and appended with `<E>` for proper sequence modeling.
 
----
 
 ## Installation
 
