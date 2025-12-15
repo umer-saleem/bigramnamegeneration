@@ -132,3 +132,9 @@ kican
 on
 ```
 
+Negative Log-Likelihood on Test Data
+
+```bash
+Negative Log Likelihood = 5.1134
+```
+
