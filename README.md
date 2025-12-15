@@ -82,4 +82,6 @@ nll = b.model_evaluation()
 print(f"Negative Log Likelihood = {nll:.4f}")
 
 ```
+- Generated names are printed during initialization.
+- The model_evaluation() method returns the negative log-likelihood of the test data.
 
