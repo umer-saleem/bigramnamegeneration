@@ -65,4 +65,21 @@ pip install torch
 - Place names.txt in the root directory.
 - Ensure each name is separated by a newline or space.
 
+## Usage
+
+```bash
+import torch
+from bigram_model import BigramModel
+
+file_path = "names.txt"
+train_ratio = 0.9
+
+# Initialize and train the model
+b = BigramModel(file_path, train_ratio)
+
+# Generate negative log-likelihood for evaluation
+nll = b.model_evaluation()
+print(f"Negative Log Likelihood = {nll:.4f}")
+
+```
 
